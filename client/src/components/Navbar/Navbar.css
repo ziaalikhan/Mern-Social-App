@@ -1,0 +1,14 @@
+.navbar {
+  /* background-color: #2c0ac7 !important; */
+  padding-left: 7% !important;
+  padding-right: 7% !important;
+}
+
+.navbar-brand {
+  color: white !important;
+}
+
+.nav-link {
+  color: white !important;
+  font-size: 19px !important;
+}

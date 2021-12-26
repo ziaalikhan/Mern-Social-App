@@ -1,0 +1,36 @@
+
+
+.allForms_container {
+    text-align: center;
+    width: 80%;
+    margin-top: 10%;
+    padding-bottom: 20px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.inputs > input {
+    width: 90%;
+    height: 45px;
+    margin-top: 7%;
+    outline: none;
+    border-color: black;
+    border-radius: 7px;
+}
+.submit_Btn > button {
+    width: 90%;
+    height: 45px;
+    outline: none;
+    border: none;
+    background-color: rgb(57, 114, 160);
+    color: white;
+}
+.clear_Btn > button {
+    width: 90%;
+    height: 45px;
+    margin-top: 10px;
+    outline: none;
+    border: none;
+    background-color: rgb(64, 0, 124);
+    color: white;
+} 

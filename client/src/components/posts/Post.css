@@ -1,0 +1,52 @@
+.mainCard {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-top: 10%;
+}
+
+.cards {
+  width: 260px;
+  border-radius: 15px;
+  border: 1px solid black;
+  padding-bottom: 10px;
+  margin-top: 15px;
+  background-color: white;
+}
+
+.bgImage {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.first_decs {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+}
+
+.name_date {
+  color: white;
+}
+.second_desc {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.like_delete_container {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.like_span {
+  /* padding-left: 5px; */
+}
+
+/* 
+@media only screen and (max-width: 500px) {
+  .cards {
+    width: 100%;
+  }
+} */
